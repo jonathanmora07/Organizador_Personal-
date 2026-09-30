@@ -9,3 +9,5 @@ Pasos de instalación:git clone <URL DEL REPOSITORIO>
 Dependencias:requests y python-dotenv
 Autor:Jonathan Noe Mora Muñoz 
 Estado: generando cambios.
+## Colaboración
+Proyecto colaborativo revisado y mejorado mediante el flujo de Fork y Pull Request.
